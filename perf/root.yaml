@@ -21,7 +21,11 @@ config:
     
 
 scenarios:
-  - name: Root (/)
+  - name: Ping
     flow:
       - get:
           url: '/'
+  - name: Proxy-Sincronico
+    flow:
+      - get:
+          url: '/proxy-sincronico'
