@@ -25,7 +25,18 @@ scenarios:
     flow:
       - get:
           url: '/'
+          
   - name: Proxy-Sincronico
     flow:
       - get:
           url: '/proxy-sincronico'
+
+  - name: Proxy-Asincronico
+    flow:
+      - get:
+          url: '/proxy-asincronico'
+
+  #  - name: Intensivo
+  #    flow:
+  #      - get:
+  #          url: '/intensivo'
