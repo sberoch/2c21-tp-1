@@ -28,6 +28,6 @@ app.get('/proxy-asincronico', (req, res) => {
 
  app.get('/intensivo', (req, res) => {
    let start = new Date();
-   while ((start.getSeconds() - (new Date()).getSeconds()) < 3) { }
+   while (new Date().getSeconds() - start.getSeconds() < 3);
    res.status(200).send('intensivo')
  })

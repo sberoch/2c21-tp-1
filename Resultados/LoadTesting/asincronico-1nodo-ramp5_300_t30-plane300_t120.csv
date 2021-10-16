@@ -1,0 +1,3 @@
+Etiqueta,# Muestras,Media,Mín,Máx,Desv. Estándar,% Error,Rendimiento,Kb/sec,Sent KB/sec,Media de Bytes
+HTTP Request,1644,4564,1405,5059,"533,67","0,000%","10,60987","2,53","1,46","244,0"
+Total,1644,4564,1405,5059,"533,67","0,000%","10,60987","2,53","1,46","244,0"
