@@ -8,7 +8,7 @@ app.listen(SERVER_PORT, () => {
   console.log(`Listening at port ${SERVER_PORT}.`);
 });
 
-app.get("/", (req, res) => {
+app.get("/ping", (req, res) => {
   res.status(200).send("ping");
 });
 

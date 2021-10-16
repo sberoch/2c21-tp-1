@@ -24,7 +24,7 @@ scenarios:
   - name: Ping
     flow:
       - get:
-          url: '/'
+          url: '/ping'
           
   - name: Proxy-Sincronico
     flow:
