@@ -2903,3 +2903,48 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1634446506978,32849,HTTP Request,200,OK,Thread Group 1-114,text,true,,232,128,3,3,http://localhost:5555/node/bbox-2,32849,0,0
 1634446507228,33353,HTTP Request,200,OK,Thread Group 1-227,text,true,,232,128,2,2,http://localhost:5555/node/bbox-2,33353,0,0
 1634446507228,33353,HTTP Request,200,OK,Thread Group 1-93,text,true,,232,128,2,2,http://localhost:5555/node/bbox-2,33353,0,0
+1634482013945,13,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:5555 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,,2716,0,1,1,http://localhost:5555/node/intensive,0,0,13
+1634482018964,1,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:5555 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,,2716,0,1,1,http://localhost:5555/node/intensive,0,0,1
+1634482023969,2,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:5555 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,,2716,0,1,1,http://localhost:5555/node/intensive,0,0,1
+1634482028979,2,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:5555 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,,2716,0,1,1,http://localhost:5555/node/intensive,0,0,1
+1634482033985,2,HTTP Request,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:5555 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,,2716,0,1,1,http://localhost:5555/node/intensive,0,0,2
+1634482166949,3025,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3023,0,14
+1634482169976,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482172990,3003,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3003,0,0
+1634482175994,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482178995,3003,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3003,0,0
+1634482181999,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482185001,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482188001,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482191003,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482194005,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482197007,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482200010,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482203011,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482206012,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482209016,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482212018,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482215019,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482218021,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482221023,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482224025,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482227027,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,1
+1634482230030,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482233031,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482236033,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482239034,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482242036,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482245038,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482248039,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482251041,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482254044,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482257045,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482260059,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482263060,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482266061,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482269063,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482272064,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482275065,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482278066,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
+1634482281068,3001,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3001,0,0
+1634482284069,3002,HTTP Request,200,OK,Thread Group 1-1,text,true,,236,131,1,1,http://localhost:5555/node/intensive,3002,0,0
