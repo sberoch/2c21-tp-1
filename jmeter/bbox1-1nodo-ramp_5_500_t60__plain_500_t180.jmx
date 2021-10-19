@@ -106,7 +106,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/asd2.jtl</stringProp>
+          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/bbox1-multi-ramp_5_500_t60__plain_500_t180.jtl</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -151,7 +151,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/asd2.jtl</stringProp>
+          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/bbox1-multi-ramp_5_500_t60__plain_500_t180.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
         <kg.apc.jmeter.vizualizers.CorrectedResultCollector guiclass="kg.apc.jmeter.vizualizers.ResponseCodesPerSecondGui" testclass="kg.apc.jmeter.vizualizers.CorrectedResultCollector" testname="jp@gc - Response Codes per Second" enabled="true">
@@ -188,7 +188,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/asd2.jtl</stringProp>
+          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/bbox1-multi-ramp_5_500_t60__plain_500_t180.jtl</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -233,7 +233,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/asd2.jtl</stringProp>
+          <stringProp name="filename">/home/sberoch/facultad/arqui/2c21-tp-1/jmeter/bbox1-multi-ramp_5_500_t60__plain_500_t180.jtl</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
